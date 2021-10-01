@@ -5,7 +5,7 @@
 * Reproductor simple de video
 
 ## ¿Que contiene y Como esta hecho?
-* contiene una interfaz simple donde es posible visualizar el video, teniendo controladores donde es posible adelntar, restrazar 10 segundos, asi como play y pausa
+* contiene una interfaz simple donde es posible visualizar el video, teniendo controladores como adelntar, restrazar 10 segundos, asi como play y pausa, este proyecto fue realizado con las siguientes tecnologias.
 
 * Html5
 * CSS
